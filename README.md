@@ -46,24 +46,6 @@ Identified key trends and patterns in the dataset
 Highlighted actionable insights for decision-making
 Improved data quality through cleaning and preprocessing
 Delivered a user-friendly dashboard for stakeholders
-▶️ How to Run
-Clone the repository
-Bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Install dependencies
-Bash
-pip install -r requirements.txt
-Run the Python analysis
-Open Jupyter Notebook or Python script
-Execute all cells/steps for EDA and cleaning
-Run SQL queries
-Import dataset into PostgreSQL / MySQL / SQL Server
-Execute provided SQL scripts
-Open Dashboard
-Launch the Power BI file (.pbix)
-View Presentation
-Open the Gamma presentation or exported PPT
 🙌 Conclusion
 This project highlights the complete data analytics lifecycle—from raw data to actionable insights—demonstrating strong analytical, technical, and visualization skills.
 If you want, I can also tailor this README for a specific dataset (like sales, HR, or finance) to make it even more impactful for recruiters.
